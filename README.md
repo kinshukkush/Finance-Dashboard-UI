@@ -13,7 +13,7 @@
 
 <br/>
 
-**🔗 Live Demo:** [finance-dashboard-ui-seven.vercel.app](https://finance-dashboard-ui-seven.vercel.app/)
+**🔗 Live Demo:** [finance-dashboard-ui-mu.vercel.app](https://finance-dashboard-ui-mu.vercel.app/)
 
 <br/>
 
